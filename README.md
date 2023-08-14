@@ -53,3 +53,10 @@ Enjoy playing the Dicee game and have fun rolling the dice with your friends! ðŸ
 - The Dicee web application is developed by Sandip Mali.
 
 - Dice images used in the application are provided under the `images/` folder. These images are taken from a collection of dice images representing numbers 1 to 6.
+
+**- PLAYING LINK:-** https://dicechallangegame.netlify.app/
+
+**- Image**
+  ![drum](https://github.com/sandipmalii/Dice-Roll-Web-Game/assets/128310990/76d080c2-30a8-4915-9da0-c35596948f3f)
+
+  
